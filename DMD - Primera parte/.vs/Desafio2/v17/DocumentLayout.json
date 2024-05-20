@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mked\\Desktop\\Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77EEF84A-2005-4C40-B8E3-013F8D0AA3F4}|Desafio2\\Desafio2.dwproj|C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Northwind.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{77EEF84A-2005-4C40-B8E3-013F8D0AA3F4}|Desafio2\\Desafio2.dwproj|solutionrelative:Desafio2\\Northwind.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EEF84A-2005-4C40-B8E3-013F8D0AA3F4}|Desafio2\\Desafio2.dwproj|C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Northwind.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{77EEF84A-2005-4C40-B8E3-013F8D0AA3F4}|Desafio2\\Desafio2.dwproj|solutionrelative:Desafio2\\Northwind.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EEF84A-2005-4C40-B8E3-013F8D0AA3F4}|Desafio2\\Desafio2.dwproj|C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Orders.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{77EEF84A-2005-4C40-B8E3-013F8D0AA3F4}|Desafio2\\Desafio2.dwproj|solutionrelative:Desafio2\\Orders.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orders.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Orders.dim",
+              "RelativeDocumentMoniker": "Desafio2\\Orders.dim",
+              "ToolTip": "C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Orders.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio2\\Orders.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-19T19:04:18.544Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Northwind.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Northwind.cube",
+              "RelativeDocumentMoniker": "Desafio2\\Northwind.cube",
+              "ToolTip": "C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Northwind.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio2\\Northwind.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-19T17:49:58.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Northwind.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Northwind.dsv",
+              "RelativeDocumentMoniker": "Desafio2\\Northwind.dsv",
+              "ToolTip": "C:\\Users\\mked\\Desktop\\Desafio2\\Desafio2\\Northwind.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio2\\Northwind.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-19T17:28:30.839Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+WITH 
+  MEMBER [Measures].[Formatted Unit Price] AS 
+    [Measures].[Unit Price - Order Details],
+    FORMAT_STRING = "Currency"
+SELECT 
+  NON EMPTY { [Measures].[Formatted Unit Price] } ON COLUMNS,
+  NON EMPTY { 
+    ([Customers].[Customer Name].[Customer Name].ALLMEMBERS
+    * [Customers].[Customer Country].[Customer Country].ALLMEMBERS 
+    * [Employees].[Employee Last Name].[Employee Last Name].ALLMEMBERS 
+    * [Suppliers].[Suppliers Country].[Suppliers Country].ALLMEMBERS 
+    * [Products].[Product Name].[Product Name].ALLMEMBERS 
+    * [Categories].[Product Category Name].[Product Category Name].ALLMEMBERS 
+    * [Orders].[Order Date].[Order Date].ALLMEMBERS 
+    * [Products].[Product- Category].[Product- Category].ALLMEMBERS) 
+  } 
+  DIMENSION PROPERTIES MEMBER_CAPTION, MEMBER_UNIQUE_NAME ON ROWS 
+FROM 
+  [Northwind]
