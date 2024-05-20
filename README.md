@@ -8,7 +8,7 @@ DATA WAREHOUSE Y MINERIA DE DATOS- Grupo 3
 
 - [Oscar Javier Portillo Barahona. (PB161930)](https://github.com/marroquin9953)
 
-- [Alberto Joseph Mendoza Moreno](https://github.com/marroquin9953)
+- [Alberto Joseph Mendoza Moreno. (MM200462) ](https://github.com/marroquin9953)
 
 - [Eveling Janeth Santos de Carranza. (SP130097)](https://github.com/marroquin9953)
 
